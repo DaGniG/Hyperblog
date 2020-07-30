@@ -1,10 +1,9 @@
-
+Esta es la primera version
 de texto en desarrollo
 de versiones con git.
 
 Este es el primer cambio 
 de este archivo.
 
-Este es el segundo cambio
-Ademas se ha borrado el primer 
-renglon del archivo.
+Aqui retomamos la version
+del primer cambio.
