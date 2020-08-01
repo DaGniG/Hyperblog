@@ -24,15 +24,6 @@ body
    font-style: inherit;
 }
 
-<<<<<<< HEAD
-#cabecera
-{
-   border-style: solid;
-   border-color: cadetblue;
-   border-width: 2px 2px 2px 2px;
-   padding: 25px 25px 25px 25px;
-   margin: 50px 50px 50px 50px;
-=======
 #c1
 {
    border-style: dashed;
@@ -49,5 +40,4 @@ body
    margin: 25px 25px 25px 25px;
    padding: 2px 2px 2px 2px;
    border-color: oldlace;
->>>>>>> cabecera
 }
