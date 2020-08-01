@@ -19,3 +19,21 @@ body
 {
    font-style: inherit;
 }
+
+#c1
+{
+   border-style: dashed;
+   border-width: 1px 1px 1px 1px;
+   margin: 25px 25px 25px 25px;
+   padding: 2px 2px 2px 2px; 
+   border-color: orchid;
+}
+
+#c2
+{
+   border-style: dashed;
+   border-width: 1px 1px 1px 1px;
+   margin: 25px 25px 25px 25px;
+   padding: 2px 2px 2px 2px;
+   border-color: oldlace;
+}
